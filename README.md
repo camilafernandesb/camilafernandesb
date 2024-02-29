@@ -30,7 +30,7 @@ Profile:  <br>
 
 #
 <div style="display: inline_block">
- :notebook: I’m currently learning: <br>        
+ :notebook: I’m learning: <br>        
   <img align="center" alt="Cami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cami-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Cami-Pentaho" height="35" width="80" src= "https://seeklogo.com/images/P/pentaho-logo-062C78B662-seeklogo.com.png">

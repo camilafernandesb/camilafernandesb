@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently learning Data Engineering Career Path.
+- I’m currently learning Python and Google Cloud
 #
 <div>
 Profile:  <br>

@@ -43,11 +43,21 @@ Connect with me:  <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilafernandesb&show_icons=true&locale=en&layout=compact" alt="camilafernandesb" /></p>
 -->
+
+<div>
+
+ ## Projects:
+:link: [Power BI Dashboards](https://github.com/camilafernandesb/Power_BI_Dashboards)
+  </div>
+
+<br><br>
 <div style="display: inline_block">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilafernandesb&show_icons=true&locale=en" alt="camilafernandesb" /></p>
 </div>
+<br>
 <div style="display: inline_block">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilafernandesb&" alt="camilafernandesb" /></p>
 
- </div>
 
+
+</div>

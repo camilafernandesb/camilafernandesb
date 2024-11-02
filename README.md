@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Camila! I work as a BI Developer.
+### Hi there! 👋 I'm Camila! I work as a Business Intelligence Analyst.
 
 <!--
 **camilafernandesb/camilafernandesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently learning Python and Google Cloud
+- 🔭 I am currently working on practicing dashboard development in Power BI. 
+- 🌱 I’m currently learning Python, Google Cloud and Hop.
 #
 <div>
-Profile:  <br>
+Connect with me:  <br>
  <a href="https://www.linkedin.com/in/camilafernandesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
 
@@ -38,6 +39,15 @@ Profile:  <br>
   <img align="center" alt="Cami-Metabase" height="60" width="90" src= "https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg">
 
 </div>
+<!--
 
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilafernandesb&show_icons=true&locale=en&layout=compact" alt="camilafernandesb" /></p>
+-->
+<div style="display: inline_block">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilafernandesb&show_icons=true&locale=en" alt="camilafernandesb" /></p>
+</div>
+<div style="display: inline_block">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilafernandesb&" alt="camilafernandesb" /></p>
+
+ </div>
 

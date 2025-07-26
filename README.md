@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently working on practicing dashboard development in Power BI. 
-- 🌱 I’m currently learning Python, Google Cloud and Hop.
+- 🌱 I’m currently working as a ETL Developer using IBM Datastage and Oracle database.
+- 🔭 I am currently working on practicing dashboard development in Power BI and learning Python, Google Cloud and Apache Hop.
+ 
 #
 <div>
 Connect with me:  <br>
@@ -25,7 +26,9 @@ Connect with me:  <br>
 #
 <div style="display: inline_block">
 :computer: I’m currently working with: <br>        
-  <img align="center" alt="Cami-Oracle" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Cami-Oracle" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Cami-DataStage" height="110" width="110" src="https://upload.wikimedia.org/wikipedia/commons/0/05/IBM_DataStage-Logo_transparant.png">
+  <img align="center" alt="Cami-Git" height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
 
 </div>
 
